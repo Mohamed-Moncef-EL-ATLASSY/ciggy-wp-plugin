@@ -1,1 +1,1 @@
-# ciggy-wp-plugiin
+# ciggy-wp-plugin
